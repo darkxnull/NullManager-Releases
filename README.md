@@ -1,1 +1,2 @@
-# NullManager-Releases
+# NullManager public release repository
+
